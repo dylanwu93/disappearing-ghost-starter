@@ -39,3 +39,9 @@ button {
 .name-button {
     background-color: #17d3ff;
 }
+
+.original {
+  background-color: Aquamarine;
+      padding: 25px;
+    border-radius: 10px;
+}
